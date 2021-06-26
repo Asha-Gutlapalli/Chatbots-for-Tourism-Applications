@@ -2,4 +2,5 @@
 .vscode/
 
 # notebook checkpoints
-notebooks/.ipynb_checkpoints/
+notebooks/web_scraping/.ipynb_checkpoints/
+notebooks/summarization/.ipynb_checkpoints/
